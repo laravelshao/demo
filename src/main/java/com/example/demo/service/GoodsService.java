@@ -5,5 +5,5 @@ package com.example.demo.service;
  * @date 2019/7/24
  * @since 1.0.0
  */
-public class GoodsService {
+public interface GoodsService {
 }
